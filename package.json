@@ -1,0 +1,28 @@
+{
+  "name": "glsl-scale-linear",
+  "version": "1.0.0",
+  "description": "A linear scale for glslify",
+  "main": "index.glsl",
+  "license": "MIT",
+  "scripts": {},
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stackgl/glsl-scale-linear.git"
+  },
+  "keywords": [
+    "ecosystem:stackgl",
+    "linear",
+    "scale"
+  ],
+  "homepage": "https://github.com/stackgl/glsl-scale-linear",
+  "bugs": {
+    "url": "https://github.com/stackgl/glsl-scale-linear/issues"
+  }
+}
